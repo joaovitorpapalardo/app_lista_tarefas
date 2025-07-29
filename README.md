@@ -31,3 +31,5 @@ Este é um projeto de uma aplicação web para gerenciamento de tarefas, desenvo
 Para que o projeto funcione corretamente, é necessário alterar o arquivo *conexao.php* e preencher as credenciais do seu banco de dados MySQL (host, nome do banco, usuário e senha).  
 Além disso, você deve *criar* um banco de dados no MySQL com a estrutura adequada para armazenar as tarefas, o código para esse modelo utilizado nesse site se encontra no arquivo SQL.  
 Caso queira alterar os nomes dos arquivos ou criar um banco de dados do zero, é necessario se atentar para a estrutura e os redirecionamentos do projeto.
+
+## Importante - ARQUIVOS COM OS CÓDIGOS SERÃO ADICIONADOS
